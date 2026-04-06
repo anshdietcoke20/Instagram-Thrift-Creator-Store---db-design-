@@ -8,3 +8,6 @@
 <p> - Payment and delivery can be tracked effectively </p>
 <p> - Separate sections like customers, orders, products, payments and delivery.</p>
 <p> - Such separate sections and correct relationship between them is essential for a clean db design and makes data querying easier.</p>
+
+
+<img width="1366" height="396" alt="db design - image" src="https://github.com/user-attachments/assets/9ad133ad-df4c-4762-9805-01b8bad4a0d4" />
